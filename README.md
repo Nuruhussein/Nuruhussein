@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nuruhussein](https://github.com/Nuruhussein)
 
-- 💬 Ask me about **react nodejs**
+- 💬 Ask me about **react nodejs laravel**
 
 - 📫 How to reach me **nuruhussen943@gmail.com**
 
