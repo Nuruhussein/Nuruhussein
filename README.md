@@ -9,7 +9,7 @@ I build modern, scalable web and mobile applications 🚀
 
 ### 👨‍💻 About Me
 
-* 🌱 Currently improving my skills in **Flutter & Vue.js**
+* 🌱 Currently working with **laravel & Vue.js**
 * 👨‍💻 Explore my projects:
   👉 <a href="https://github.com/Nuruhussein" target="_blank">GitHub Portfolio</a>
 * 💬 Ask me about **React, Vue.js, Node.js, Laravel, Next.js, Flutter**
