@@ -23,7 +23,7 @@ I build modern, scalable web and mobile applications 🚀
 <a href="https://linkedin.com/in/nuru-hussen" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Nuru%20Hussen-blue?style=for-the-badge&logo=linkedin" />
 </a>
-<a href="https://fb.com/nuru-hussen" target="_blank">
+<a href="https://fb.com/nuru.hussen.33449138" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-Nuru%20Hussen-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 </p>
