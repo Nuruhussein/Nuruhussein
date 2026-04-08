@@ -1,18 +1,18 @@
-<h1 align="center">Hi 👋, I'm Nuru Hussen</h1>
+<h1 align="center">Hi , I'm Nuru Hussen</h1>
 <h3 align="center">Full Stack Developer from Ethiopia 🇪🇹</h3>
 
 <p align="center">
-I build modern, scalable web applications and enjoy learning new technologies 🚀
+I build modern, scalable web and mobile applications 🚀
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-* 🌱 Currently learning **Flutter**
+* 🌱 Currently improving my skills in **Flutter & Vue.js**
 * 👨‍💻 Explore my projects:
   👉 <a href="https://github.com/Nuruhussein" target="_blank">GitHub Portfolio</a>
-* 💬 Ask me about **React, Node.js, Laravel, Next.js**
+* 💬 Ask me about **React, Vue.js, Node.js, Laravel, Next.js, Flutter**
 * 📫 Reach me: **[nuruhussen943@gmail.com](mailto:nuruhussen943@gmail.com)**
 
 ---
@@ -34,61 +34,31 @@ I build modern, scalable web applications and enjoy learning new technologies �
 
 <p align="center">
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-<img src="https://skillicons.dev/icons?i=js" height="50"/>
-</a>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts" />
 
-<a href="https://reactjs.org/" target="_blank">
-<img src="https://skillicons.dev/icons?i=react" height="50"/>
-</a>
+<br/>
 
-<a href="https://nextjs.org/" target="_blank">
-<img src="https://skillicons.dev/icons?i=nextjs" height="50"/>
-</a>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue" />
 
-<a href="https://nodejs.org" target="_blank">
-<img src="https://skillicons.dev/icons?i=nodejs" height="50"/>
-</a>
+<br/>
 
-<a href="https://expressjs.com" target="_blank">
-<img src="https://skillicons.dev/icons?i=express" height="50"/>
-</a>
+<img src="https://skillicons.dev/icons?i=nodejs,express,laravel" />
 
-<a href="https://www.mongodb.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=mongodb" height="50"/>
-</a>
+<br/>
 
-<a href="https://www.mysql.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=mysql" height="50"/>
-</a>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 
-<a href="https://tailwindcss.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=tailwind" height="50"/>
-</a>
+<br/>
 
-<a href="https://getbootstrap.com" target="_blank">
-<img src="https://skillicons.dev/icons?i=bootstrap" height="50"/>
-</a>
+<img src="https://skillicons.dev/icons?i=flutter,dart,react" />
 
-<a href="https://reactnative.dev/" target="_blank">
-<img src="https://skillicons.dev/icons?i=react" height="50"/>
-</a>
+<br/>
 
-<a href="https://www.python.org" target="_blank">
-<img src="https://skillicons.dev/icons?i=python" height="50"/>
-</a>
+<img src="https://skillicons.dev/icons?i=tailwind,bootstrap" />
 
-<a href="https://www.w3.org/html/" target="_blank">
-<img src="https://skillicons.dev/icons?i=html" height="50"/>
-</a>
+<br/>
 
-<a href="https://www.w3.org/Style/CSS/" target="_blank">
-<img src="https://skillicons.dev/icons?i=css" height="50"/>
-</a>
-
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=git" height="50"/>
-</a>
+<img src="https://skillicons.dev/icons?i=python,cpp,git" />
 
 </p>
 
@@ -106,5 +76,5 @@ I build modern, scalable web applications and enjoy learning new technologies �
 ### ⚡ Fun Fact
 
 <p align="center">
-I love turning ideas into real-world applications and continuously improving my skills 💡
+I enjoy building full-stack and mobile apps, and turning ideas into real-world solutions 💡
 </p>
